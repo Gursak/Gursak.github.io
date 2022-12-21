@@ -1,0 +1,11 @@
+body {
+font-family: sans-serif;
+}
+.bulanik {
+    filter:blur(20px);
+    transition: 1s;
+}
+.bulanik:hover {
+    filter:blur(0px);
+    transition: 1s;
+}
